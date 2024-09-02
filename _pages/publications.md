@@ -6,26 +6,22 @@ author_profile: true
 
 **Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey** \
 **JC. Zhao**, S. Bagchi, S. Avestimehr, K. Chan, S. Chaterji, D. Dimitriadis, J. Li, N. Li, A. Nourian, H. Roth \
-<em>Under submission to ACM Computing Surveys (CSUR)<em>
-
+<em>Under submission to ACM Computing Surveys (CSUR)<em> <br />
 [Paper link](https://arxiv.org/pdf/2405.03636){:target="_blank"}
 
 **Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning** \
 **Joshua C. Zhao**, Ahaan Dabholkar, Atul Sharma, Saurabh Bagchi \
-<em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2024)**
-
+<em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2024)** <br />
 [Paper link](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhao_Leak_and_Learn_An_Attackers_Cookbook_to_Train_Using_Leaked_CVPR_2024_paper.pdf){:target="_blank"} &#124; [Video](https://www.youtube.com/watch?v=ovmSnjSOcks){:target="_blank"}
 
 **LOKI: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation** \
 **Joshua C. Zhao**, Atul Sharma, Ahmed Roushdy Elkord, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
-<em>The 45th IEEE Symposium on Security and Privacy<em> **(S&P 2024)**
-
+<em>The 45th IEEE Symposium on Security and Privacy<em> **(S&P 2024)** <br />
 [Paper link](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a030/1RjEa6sC0I8){:target="_blank"} &#124; [Video](https://www.youtube.com/watch?v=KHr7IjpUn8U){:target="_blank"}
 
 **The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning** \
 **Joshua C. Zhao**, Ahmed Roushdy Elkordy, Atul Sharma, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
-<em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2023)**
-
+<em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2023)** <br />
 [Paper link](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_The_Resource_Problem_of_Using_Linear_Layer_Leakage_Attack_in_CVPR_2023_paper.pdf){:target="_blank"} &#124; [Video](https://www.youtube.com/watch?v=uxAWL6i7LNw){:target="_blank"}
 
 **FLAIR: Defense against Model Poisoning Attack in Federated Learning** \
