@@ -11,6 +11,8 @@ I am a fourth-year Ph.D. student in the [School of Electrical and Computer Engin
 
 My research interests lie in security and privacy of machine learning. During my time at Purdue, I have worked on projects focused on privacy attacks in distributed learning (federated learning) and also byzantine robustness. I am also currently engaged on projects relating to adversarial machine learning. In particular, I am exploring improving the fundamental tradeoff on adversarial robustness and generalization accuracy.
 
+[Here](https://joshuaczhao.github.io/research/) is a summary of my research.
+
 Selected publications
 ======
 For a full list of publications (along with YouTube videos and paper links), see the [Publications page](https://joshuaczhao.github.io/publications/). My Google Scholar can also be found [here](https://scholar.google.com/citations?user=aKAajcUAAAAJ&hl=en).
