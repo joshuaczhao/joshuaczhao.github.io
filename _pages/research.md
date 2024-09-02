@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-# title: "Joshua C. Zhao"
+# title: "Research summary"
 author_profile: true
 ---
 

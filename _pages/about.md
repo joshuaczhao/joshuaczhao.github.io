@@ -25,5 +25,10 @@ Selected publications
 **Joshua C. Zhao**, Ahmed Roushdy Elkordy, Atul Sharma, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
 <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2023)**
 
-<br/>
 For a full list of publications (along with YouTube videos and paper links), see the [Publications page](https://joshuaczhao.github.io/publications/). My Google Scholar can also be found [here](https://scholar.google.com/citations?user=aKAajcUAAAAJ&hl=en).
+
+Awards and honor societies:
+======
+* Purdue Andrews fellowship
+* Eta Kappa Nu, Beta Tau Chapter (Electrical Engineering Honor Society)
+* Tau Beta Pi (Engineering Honor Society)
