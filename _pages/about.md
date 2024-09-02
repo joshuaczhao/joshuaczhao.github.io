@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joshua C. Zhao"
+# title: "Joshua C. Zhao"
 author_profile: true
 redirect_from: 
   - /about/
