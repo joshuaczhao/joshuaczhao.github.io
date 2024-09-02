@@ -1,9 +1,7 @@
 ---
-permalink: /publication/
+permalink: /publications/
 title: "Publications"
 author_profile: true
-redirect_from: 
-  - /publication.html
 ---
 
 **Federated Learning Privacy: Attacks, Defenses, Applications, and Policy Landscape - A Survey** \
