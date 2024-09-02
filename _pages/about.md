@@ -13,6 +13,8 @@ My research interests lie in security and privacy of machine learning. During my
 
 Selected publications
 ======
+For a full list of publications (along with YouTube videos and paper links), see the [Publications page](https://joshuaczhao.github.io/publications/). My Google Scholar can also be found [here](https://scholar.google.com/citations?user=aKAajcUAAAAJ&hl=en).
+
 **LOKI: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation** \
 **Joshua C. Zhao**, Atul Sharma, Ahmed Roushdy Elkord, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
 <em>The 45th IEEE Symposium on Security and Privacy<em> **(S&P 2024)**
@@ -25,9 +27,7 @@ Selected publications
 **Joshua C. Zhao**, Ahmed Roushdy Elkordy, Atul Sharma, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
 <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2023)**
 
-For a full list of publications (along with YouTube videos and paper links), see the [Publications page](https://joshuaczhao.github.io/publications/). My Google Scholar can also be found [here](https://scholar.google.com/citations?user=aKAajcUAAAAJ&hl=en).
-
-Awards and honor societies:
+Awards and honors:
 ======
 * Purdue Andrews fellowship
 * Eta Kappa Nu, Beta Tau Chapter (Electrical Engineering Honor Society)
