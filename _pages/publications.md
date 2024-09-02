@@ -30,15 +30,15 @@ author_profile: true
 
 **FLAIR: Defense against Model Poisoning Attack in Federated Learning** \
 Atul Sharma, Wei Chen, **Joshua C. Zhao**, Qiang Qiu, Saurabh Bagchi, and Somali Chaterji \
-<em>The 18th ACM ASIA Conference on Computer and Communications Security<em> **(ACM AsiaCCS 2023)** <br \>
+<em>The 18th ACM ASIA Conference on Computer and Communications Security<em> **(ACM AsiaCCS 2023)** <br />
 [Paper link](https://dl.acm.org/doi/pdf/10.1145/3579856.3582836){:target="_blank"}
 
 **How to Learn Collaboratively – Federated Learning to Peer-to-Peer Learning and What’s at Stake** \
 Atul Sharma, **Joshua C. Zhao**, Wei Chen, Qiang Qiu, Saurabh Bagchi, and Somali Chaterji \
-<em>DSN-2023: Disruptive Ideans and New Interdisplinary Results<em> **(DSN Disrupt 2023)** <br \>
+<em>DSN-2023: Disruptive Ideans and New Interdisplinary Results<em> **(DSN Disrupt 2023)** <br />
 [Paper link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10206535){:target="_blank"}
 
 **Thermal Management for FPGA Nodes in HPC Systems** \
 Yingyi Luo, **Joshua C. Zhao**, Arnav Aggarwal, Seda Ogrenci-Memik, and Kazutomo Yoshii \
-<em>ACM Transactions on Design Automation of Electronic Systems<em> **(TODAES 2020)** <br \>
+<em>ACM Transactions on Design Automation of Electronic Systems<em> **(TODAES 2020)** <br />
 [Paper link](https://dl.acm.org/doi/pdf/10.1145/3423494){:target="_blank"}
