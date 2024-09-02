@@ -4,10 +4,12 @@ permalink: /research/
 author_profile: true
 ---
 
-This is where I will put a summary of the current research I am doing.
+Below is a summary of my research. I will discuss some of the research problems I have worked on along with the core results (and the corresponding papers they come from). Please find a list of all my publications [here](https://joshuaczhao.github.io/publications/).
 
 Federated (distributed) learning
 ======
 Federated learning.
 
-Adversarial machine learning (to be added).
+Adversarial machine learning
+====== 
+(To be added)
