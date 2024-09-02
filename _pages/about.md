@@ -25,5 +25,5 @@ Selected publications
 **Joshua C. Zhao**, Ahmed Roushdy Elkordy, Atul Sharma, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
 <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2023)**
 
-<br/><br/>
-For a full list of publications (along with YouTube videos and paper links), see the [Publications](https://joshuaczhao.github.io/publications/) page. My Google Scholar can also be found [here](https://scholar.google.com/citations?user=aKAajcUAAAAJ&hl=en).
+<br/>
+For a full list of publications (along with YouTube videos and paper links), see the [Publications page](https://joshuaczhao.github.io/publications/). My Google Scholar can also be found [here](https://scholar.google.com/citations?user=aKAajcUAAAAJ&hl=en).
