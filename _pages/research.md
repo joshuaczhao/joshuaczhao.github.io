@@ -22,7 +22,7 @@ We also find an interesting resource problem coming with these powerful attacks.
 
 The above summary discussed some of my works in federated (distributed) learning privacy. If you are interested in how we designed a robust-aggregation method for FL to gain byzantime robustness when there are up to 45% malicious participating clients, check out the paper [here](https://dl.acm.org/doi/pdf/10.1145/3579856.3582836){:target="_blank"}. If you are interested in a more general discussion of communication costs and privacy implications of different distributed learning paradigms (such as FL or P2PL), check out this work [here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10206535&tag=1){:target="_blank"}.
 
-\[1\] Zhu et al., "Deep Leakage from Gradients." NeurIPS 2019.
+\[1\] Zhu et al., "Deep Leakage from Gradients." NeurIPS 2019. <br />
 \[2\] Fowl et al., "Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models." ICLR 2022.
 
 Adversarial machine learning
