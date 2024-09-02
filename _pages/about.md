@@ -13,8 +13,14 @@ My research interests lie in security and privacy of machine learning. During my
 
 Selected publications
 ======
-**LOKI: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation**
-**Joshua C. Zhao**, Atul Sharma, Ahmed Roushdy Elkord, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi
-<em>The 45th IEEE Symposium on Security and Privacy<em> (**S&P 2024**)
+**LOKI: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation** \
+**Joshua C. Zhao**, Atul Sharma, Ahmed Roushdy Elkord, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
+<em>The 45th IEEE Symposium on Security and Privacy<em> **(S&P 2024)**
 
+**Leak and Learn: An Attacker's Cookbook to Train Using Leaked Data from Federated Learning** \
+**Joshua C. Zhao**, Ahaan Dabholkar, Atul Sharma, Saurabh Bagchi \
+<em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2024)**
 
+**The Resource Problem of Using Linear Layer Leakage Attack in Federated Learning** \
+**Joshua C. Zhao**, Ahmed Roushdy Elkordy, Atul Sharma, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
+<em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2023)**
