@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student in the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu), advised by [Prof. Saurabh Bagchi](https://www.saurabhbagchi.us) in the [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/). Previously, I received my M.S. in Computer Science and B.S. in Computer Engineering from [Northwestern University](https://www.northwestern.edu) in 2021.
+I am a fifth-year Ph.D. candidate in the [School of Electrical and Computer Engineering](https://engineering.purdue.edu/ECE) at [Purdue University](https://www.purdue.edu), advised by [Prof. Saurabh Bagchi](https://www.saurabhbagchi.us) in the [Dependable Computing Systems Laboratory (DCSL)](https://engineering.purdue.edu/dcsl/) with an expected graduation of May 2026. Previously, I received my M.S. in Computer Science and B.S. in Computer Engineering from [Northwestern University](https://www.northwestern.edu) in 2021.
 
-My research interests lie in security and privacy of machine learning. During my time at Purdue, I have worked on projects focused on privacy attacks in distributed learning (federated learning) and also byzantine robustness. I am also currently engaged on projects relating to adversarial machine learning. In particular, I am exploring improving the fundamental tradeoff on adversarial robustness and generalization accuracy.
+My research focuses on machine learning with an emphasis on building scalable, reliable, and robust systems. As a machine learning security researcher, I am particularly passionate when learning about new systems and improving the safety (reliability of the models and the ethical uses) of real world deep learning applications. 
+
+My work has been published in top computer vision, security, and systems conferences (CVPR, IEEE S\&P, AsiaCCS, DSN-S), ranging from data privacy and model reliability under data heterogeneity (key problems in real-world deployments of large-scale settings in federated learning) to model robustness (reliability, adversarial machine learning, and efficient robust transfer learning). One of my recent works also explores using foundation models to improve weakly supervised point cloud semantic segmentation.
+
+I have also worked in autonomous driving / ADAS perception at Woven by Toyota, where I trained and evaluated models for occupancy prediction and scene flow.
 
 [Here](https://joshuaczhao.github.io/research/) is a summary of my research.
 
@@ -29,8 +33,21 @@ For a full list of publications (along with YouTube videos and paper links), see
 **Joshua C. Zhao**, Ahmed Roushdy Elkordy, Atul Sharma, Yahya H. Ezzeldin, Salman Avestimehr, Saurabh Bagchi \
 <em>The IEEE/CVF Conference on Computer Vision and Pattern Recognition<em> **(CVPR 2023)**
 
-Awards and honors:
+**The Federation Strikes Back: A Survey of Federated Learning Privacy Attacks, Defenses, Applications, and Policy Landscape** \
+**Joshua C. Zhao**, S. Bagchi, S. Avestimehr, K. Chan, S. Chaterji, D. Dimitriadis, J. Li, N. Li, A. Nourian, H. Roth \
+<em>ACM Computing Surveys<em> **(CSUR 2025)**
+
+Awards, Services, and Teaching:
 ======
+* Bilsland Dissertation Fellowship
 * Purdue Andrews fellowship
+* DCSL Best Fresher Award, Group Champion Award
 * Eta Kappa Nu, Beta Tau Chapter (Electrical Engineering Honor Society)
 * Tau Beta Pi (Engineering Honor Society)
+* Northwestern University SURG
+
+**Guest lecturer at Purdue University** for ECE 60872 (Fault-Tolerant Computer System Design). I gave the two following lectures on ML security:
+* How reliable is your model? (adversarial machine learning)
+* Distributed machine learning, a secure and private alternative?
+
+**Reviewer:** ICCV, CVPR, CVPR FedVision, NeurIPS, AAAI
