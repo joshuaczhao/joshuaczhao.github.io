@@ -11,7 +11,7 @@ I am a fifth-year Ph.D. candidate in the [School of Electrical and Computer Engi
 
 My research focuses on machine learning with an emphasis on building scalable, reliable, and robust systems. As a machine learning security researcher, I am particularly passionate when learning about new systems and improving the safety (reliability of the models and the ethical uses) of real world deep learning applications. 
 
-My work has been published in top computer vision, security, and systems conferences (CVPR, IEEE S\&P, AsiaCCS, DSN-S), ranging from data privacy and model reliability under data heterogeneity (key problems in real-world deployments of large-scale settings in federated learning) to model robustness (reliability, adversarial machine learning, and efficient robust transfer learning). One of my recent works also explores using foundation models to improve weakly supervised point cloud semantic segmentation.
+My work has been published in top computer vision, security, and systems conferences (CVPR, IEEE S&P, AsiaCCS, DSN-S), ranging from data privacy and model reliability under data heterogeneity (key problems in real-world deployments of large-scale settings in federated learning) to model robustness (reliability, adversarial machine learning, and efficient robust transfer learning). One of my recent works also explores using foundation models to improve weakly supervised point cloud semantic segmentation.
 
 I have also worked in autonomous driving / ADAS perception at Woven by Toyota, where I trained and evaluated models for occupancy prediction and scene flow.
 
